@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1B43CB0A-9C58-4B7C-929E-6701FD5D4FBE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Uebung59_Koenigreich_pbbgh20aba/Program.cs">
+    <Files>
+      <File FileName="Uebung59_Koenigreich_pbbgh20aba/Program.cs" Line="17" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Uebung59_Koenigreich_pbbgh20aba" expanded="True">
+            <Node name="Uebung59_Koenigreich_pbbgh20aba" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Uebung59__Koenigreich__pbbgh20aba PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

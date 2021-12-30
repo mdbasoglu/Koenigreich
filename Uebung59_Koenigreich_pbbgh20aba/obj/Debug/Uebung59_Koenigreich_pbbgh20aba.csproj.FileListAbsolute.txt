@@ -1,0 +1,10 @@
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung59_Koenigreich_pbbgh20aba/Uebung59_Koenigreich_pbbgh20aba/obj/Debug/Uebung59_Koenigreich_pbbgh20aba.csproj.AssemblyReference.cache
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung59_Koenigreich_pbbgh20aba/Uebung59_Koenigreich_pbbgh20aba/obj/Debug/Uebung59_Koenigreich_pbbgh20aba.csproj.CoreCompileInputs.cache
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung59_Koenigreich_pbbgh20aba/Uebung59_Koenigreich_pbbgh20aba/bin/Debug/Uebung59_Koenigreich_pbbgh20aba.exe
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung59_Koenigreich_pbbgh20aba/Uebung59_Koenigreich_pbbgh20aba/bin/Debug/Uebung59_Koenigreich_pbbgh20aba.pdb
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung59_Koenigreich_pbbgh20aba/Uebung59_Koenigreich_pbbgh20aba/obj/Debug/Uebung59_Koenigreich_pbbgh20aba.exe
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung59_Koenigreich_pbbgh20aba/Uebung59_Koenigreich_pbbgh20aba/obj/Debug/Uebung59_Koenigreich_pbbgh20aba.pdb
+/Users/macbook/Documents/GitHub/Koenigreich/Uebung59_Koenigreich_pbbgh20aba/obj/Debug/Uebung59_Koenigreich_pbbgh20aba.csproj.AssemblyReference.cache
+/Users/macbook/Documents/GitHub/Koenigreich/Uebung59_Koenigreich_pbbgh20aba/obj/Debug/Uebung59_Koenigreich_pbbgh20aba.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/GitHub/Koenigreich/Uebung59_Koenigreich_pbbgh20aba/obj/Debug/Uebung59_Koenigreich_pbbgh20aba.exe
+/Users/macbook/Documents/GitHub/Koenigreich/Uebung59_Koenigreich_pbbgh20aba/obj/Debug/Uebung59_Koenigreich_pbbgh20aba.pdb
